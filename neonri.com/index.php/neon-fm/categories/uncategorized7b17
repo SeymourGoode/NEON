@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">NEON RETROFEST - Uncategorized</title>
+	<subtitle type="text">Blog entries categorized under Uncategorized</subtitle>
+	<link rel="alternate" type="text/html" href="http://neonri.com"/>
+	<id>http://neonri.com/index.php/neon-fm/categories/uncategorized</id>
+	<updated>2022-08-03T18:40:07-04:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://neonri.com/index.php/neon-fm/categories/uncategorized?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Content Coming Soon!</title>
+		<link rel="alternate" type="text/html" href="http://neonri.com/index.php/neon-fm/2021-02-19-content-coming-soon"/>
+		<published>2021-02-08T14:58:39-05:00</published>
+		<updated>2021-02-08T14:58:39-05:00</updated>
+		<id>http://neonri.com/index.php/neon-fm/2021-02-19-content-coming-soon</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">Thank you for your patience as we ramp up this new aspect of the NEON FM&amp;nbsp;world. As current events have forced us more into the the virtual sphere (for now), tune in&amp;nbsp;for fresh&amp;nbsp;content about the things we love best: Synthwave, Vaporwave, retro video gaming, cult film, 80's throwbacks, deadmalls, nostalgic Florida,&amp;nbsp;and much more!</summary>
+		<content type="html">Thank you for your patience as we ramp up this new aspect of the NEON FM&amp;nbsp;world. As current events have forced us more into the the virtual sphere (for now), tune in&amp;nbsp;for fresh&amp;nbsp;content about the things we love best: Synthwave, Vaporwave, retro video gaming, cult film, 80's throwbacks, deadmalls, nostalgic Florida,&amp;nbsp;and much more!</content>
+		<category term="Uncategorized" />
+	</entry>
+</feed>

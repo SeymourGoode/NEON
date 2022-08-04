@@ -1,0 +1,8 @@
+neonri.com -O "/home/quixote/websites/NEON" -%v
+File generated automatically on Wed, 03 Aug 2022 18:08:27, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>NEON RETROFEST - Blogs from Super User</title>
+		<description><![CDATA[]]></description>
+		<link>http://neonri.com/index.php/neon-fm/blogger/grant</link>
+		<lastBuildDate>Wed, 03 Aug 2022 18:40:03 -0400</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://neonri.com/index.php/neon-fm/blogger/grant?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Content Coming Soon!</title>
+			<link>http://neonri.com/index.php/neon-fm/2021-02-19-content-coming-soon</link>
+			<guid isPermaLink="true">http://neonri.com/index.php/neon-fm/2021-02-19-content-coming-soon</guid>
+			<description><![CDATA[Thank you for your patience as we ramp up this new aspect of the NEON FM&nbsp;world. As current events have forced us more into the the virtual sphere (for now), tune in&nbsp;for fresh&nbsp;content about the things we love best: Synthwave, Vaporwave, retro video gaming, cult film, 80's throwbacks, deadmalls, nostalgic Florida,&nbsp;and much more!]]></description>
+			<category>Uncategorized</category>
+			<pubDate>Mon, 08 Feb 2021 14:58:39 -0500</pubDate>
+		</item>
+	</channel>
+</rss>
